@@ -1,0 +1,27 @@
+/build/*
+/Preview.html
+
+.idea
+#.gitattributes
+.DS_Store
+
+*.gcda
+*.gcno
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+xcuserdata
+
+Wattpad/Frameworks/Crashlytics.framework/Modules
+
+# Too large to be included in Git
+Pods/FBAudienceNetwork/Static/FBAudienceNetwork.framework/FBAudienceNetwork
+Pods/InMobiSDK/InMobiSDK.framework/InMobiSDK
+Pods/AppLovinSDK/applovin-ios-sdk-6.11.3/AppLovinSDK.framework/AppLovinSDK
+
+fastlane/report.xml
+bitrise/server/**/*.js
+bitrise/server/node_modules
