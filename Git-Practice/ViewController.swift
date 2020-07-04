@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("Edit from server")
         print(" 8f4d61feb51a82a9e7c8925199fd6c2817202a25")
         print("wow")
+        print("nice one2")
     }
 
     override func didReceiveMemoryWarning() {
