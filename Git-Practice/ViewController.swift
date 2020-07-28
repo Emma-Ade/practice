@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         print("Another one")
         print("maybe final")
         print("Experiment4")
+        print("Experiment6")
     }
 
     override func didReceiveMemoryWarning() {
